@@ -77,6 +77,5 @@ The following graphs illustrate the model's training performance:
 This project is open-source and available under the **MIT License**.
 
 ---
-### 🚀 Developed by **Arpit Kadam**
-📧 Contact: [📩 arpitkadam922@gmail.com](mailto:arpitkadam922@gmail.com)
+
 
