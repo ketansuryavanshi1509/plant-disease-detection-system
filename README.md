@@ -38,8 +38,8 @@ This project is a **Plant Diseases Prediction App** built using **Streamlit** an
 
 ### 🏗️ 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/arpitkadam-plant-diseases-prediction.git
-cd arpitkadam-plant-diseases-prediction
+git clone https://github.com/your-username/plant-diseases-prediction.git
+cd plant-diseases-prediction
 ```
 
 ### 📦 2. Install Dependencies
@@ -66,7 +66,7 @@ Confidence: 92.5%
 ## 📊 Model Performance
 The following graphs illustrate the model's training performance:
 
-![Training Accuracy](https://github.com/ArpitKadam/Plant-Diseases-Prediction/blob/main/Visualization_images/Training%20Accuracy%20and%20Validation%20Accuracy%20vs.%20No.%20of%20Epochs.JPG)
+
 
 ## 🔖 Notes
 - 📊 The model is trained on **plant disease datasets**.
